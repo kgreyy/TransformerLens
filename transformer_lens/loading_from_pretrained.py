@@ -30,6 +30,7 @@ OFFICIAL_MODEL_NAMES = [
     "facebook/opt-13b",
     "facebook/opt-30b",
     "facebook/opt-66b",
+    "HuggingFaceH4/zephyr-7b-beta",
     "EleutherAI/gpt-neo-125M",
     "EleutherAI/gpt-neo-1.3B",
     "EleutherAI/gpt-neo-2.7B",
